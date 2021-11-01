@@ -1,4 +1,4 @@
-# Simple React test - 15 minutes - Free to google or any other resource
+# Simple Nodejs test - 15 minutes - Free to google or any other resource
 
 1. Get the express server running - might be intentionally broken
     Once the sever is running it will be accessible @ http://localhost:3000
